@@ -32,7 +32,7 @@ repositories:
 
 website: "https://devfile.io"
 
-artwork: "https://landscape.cncf.io/logos/devfile.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/devfile"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
